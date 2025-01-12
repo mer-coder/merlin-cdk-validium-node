@@ -2,6 +2,7 @@
 
 Merlin Chain is the first Bitcoin Layer 2 solution built on the Polygon CDK, fully integrating a ZK-Rollup network, decentralized oracle network, and on-chain BTC fraud proof module. By leveraging these advanced technologies, Merlin Chain offers Bitcoin users significantly lower fees, reduced operational complexity, enhanced functionality, and broader asset compatibility. Our mission is to enhance the native capabilities of Bitcoin, making its use more efficient and enjoyable, and ultimately, to Make Bitcoin Fun Again.
 
+
 You can use the source code in this repo to build and run a Merlin external node, which offers the following benefits:
 
 1. High-performance local RPC service by synchronizing the latest on-chain data in real-time, which can provide a better experience for Merlin chain users and project developers.
